@@ -1,8 +1,8 @@
 # Error Might Occur:
-# remove comment // in json file
-# we have create Drivr API json file  is used which is below link
-# Drive api integration link : https://youtu.be/tamT_iGoZDQ?si=n5CP-uJrnKbvosNm
+# remove comment // in json file and run and make sure "SERVICE_ACCOUNT_FILE" & "PARENT_FOLDER_ID" path are correct
 
+# if some error in checkout below
+# Drive api integration link : https://youtu.be/tamT_iGoZDQ?si=n5CP-uJrnKbvosNm
 # Complete project running in colab:https://colab.research.google.com/drive/1sr-rnQKVUhVrtWgRcnuJQvuoHHcDf4hu?usp=sharing
 
 
