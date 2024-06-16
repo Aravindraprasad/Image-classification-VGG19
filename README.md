@@ -4,8 +4,7 @@
 Image_classification_VGG19
 
 # Description 
-Image Classification project were user inputs a image and gets output as what image contains with confidence chart
-
+Image Classification project where the user inputs an image and receives the output of what the image contains along with a confidence chart. Make sure to read the comments in the instruction file, which are commented on top.
 
 
 ## Screenshots
